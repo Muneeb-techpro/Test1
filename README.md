@@ -44,8 +44,8 @@ student-grade-report/
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Muneeb-techpro/student-grade-report.git
-   cd student-grade-report
+   git clone https://github.com/Muneeb-techpro/Test1.git
+   cd Test1
    ```
 2. Compile the program:
    ```bash
